@@ -11,17 +11,7 @@ function HomePage() {
     <div className="min-h-screen bg-gray-100 items-center justify-content text-center">
       <h1>Hello world</h1>
        <h1>Hello world</h1>
-
-
-
-
-
-
-
-
-
-       
-        <h1>Hello world</h1>
+       <h1>Hello world</h1>
     </div>
   )
 }
